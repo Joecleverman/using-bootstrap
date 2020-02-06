@@ -40,10 +40,6 @@ h6 {
   background-color: #f72210;
 }
 
-.hidden-title {
-  display: none;
-}
-
 .main-logo svg {
   height: 20px;
   fill: white;
@@ -106,6 +102,15 @@ h6 {
 }
 
 #subscribe-btn {
+  background: white;
+  color: #f72210;
+}
+
+.search {
+  color: rgb(39, 37, 37);
+}
+
+#sub-btn {
   background: white;
   color: #f72210;
 }
@@ -462,13 +467,7 @@ h6 {
   background-color: white;
   padding-top: 30px;
   padding-bottom: 30px;
-
-  /* padding-right: 5rem;
-  padding-left: 5rem; */
-}
-
-.footer1 ul li {
-  display: inline-block;
+  padding-right: 0;
 }
 
 .footer-social {
