@@ -17,6 +17,7 @@ It was about making a clone of the [News week webiste ](https://www.newsweek.com
 
 - HTML
 - CSS
+- BOOTSTRAP
 
 # Contributing
 
