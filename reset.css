@@ -1,11 +1,11 @@
 @media only screen and (max-width: 993px) {
-  .main-header {
+  .main-content {
     padding: 0;
     height: 50px;
     align-items: center;
   }
 
-  .main-header svg {
+  .main-content svg {
     height: 14px;
   }
 
@@ -14,7 +14,7 @@
     margin-right: 5px;
   }
 
-  .main-header .sign-in {
+  .main-content .sign-in {
     min-width: 40px;
   }
 }
@@ -27,10 +27,10 @@
 
   .sports article h3,
   .business article h3,
-  .culture .triple-row h3,
-  .tech-and-science .triple-row h3,
-  .locale-state .triple-row h3,
-  .international .triple-row h3 {
+  .culture .aside-row h3,
+  .tech-and-science .aside-row h3,
+  .real .aside-row h3,
+  .world-wide .aside-row h3 {
     font-size: 17px;
     font-weight: 500;
     line-height: 20px;
@@ -40,10 +40,10 @@
 @media only screen and (max-width: 715px) {
   .sports article h3,
   .business article h3,
-  .culture .triple-row h3,
-  .tech-and-science .triple-row h3,
-  .locale-state .triple-row h3,
-  .international .triple-row h3 {
+  .culture .aside-row h3,
+  .tech-and-science .aside-row h3,
+  .real .aside-row h3,
+  .world-wide .aside-row h3 {
     font-size: 30px;
     font-weight: 700;
     line-height: 30px;
@@ -51,7 +51,7 @@
 }
 
 @media only screen and (max-width: 618px) {
-  .mail-liste-action-1 h3 {
+  .subscription-form h3 {
     font-size: 20px;
     font-weight: 700;
     line-height: 20px;
@@ -64,10 +64,10 @@
 
   .sports article h3,
   .business article h3,
-  .culture .triple-row h3,
-  .tech-and-science .triple-row h3,
-  .locale-state .triple-row h3,
-  .international .triple-row h3 {
+  .culture .aside-row h3,
+  .tech-and-science .aside-row h3,
+  .real .aside-row h3,
+  .world-wide .aside-row h3 {
     font-size: 27px;
     font-weight: 700;
     line-height: 27px;
@@ -78,13 +78,13 @@
     margin-right: 5px;
   }
 
-  .main-header .sign-in {
+  .main-content .sign-in {
     min-width: 40px;
   }
 }
 
 @media only screen and (max-width: 500px) {
-  .mail-liste-action-1 h3 {
+  .subscription-form h3 {
     font-size: 20px;
     font-weight: 700;
     line-height: 20px;
@@ -97,10 +97,10 @@
 
   .sports article h3,
   .business article h3,
-  .culture .triple-row h3,
-  .tech-and-science .triple-row h3,
-  .locale-state .triple-row h3,
-  .international .triple-row h3 {
+  .culture .aside-row h3,
+  .tech-and-science .aside-row h3,
+  .real .aside-row h3,
+  .world-wide .aside-row h3 {
     font-size: 22px;
     font-weight: 700;
     line-height: 22px;
@@ -111,17 +111,17 @@
     margin-right: 5px;
   }
 
-  .main-header .sign-in {
+  .main-content .sign-in {
     min-width: 40px;
   }
 }
 
 @media only screen and (max-width: 349px) {
-  .mail-liste-action-2 figure {
+  .subscription-form-1 figure {
     overflow: none;
   }
 
-  .mail-liste-action-1 h3 {
+  .subscription-form h3 {
     font-size: 20px;
     font-weight: 700;
     line-height: 20px;
@@ -134,10 +134,10 @@
 
   .sports article h3,
   .business article h3,
-  .culture .triple-row h3,
-  .tech-and-science .triple-row h3,
-  .locale-state .triple-row h3,
-  .international .triple-row h3 {
+  .culture .aside-row h3,
+  .tech-and-science .aside-row h3,
+  .real .aside-row h3,
+  .world-wide .aside-row h3 {
     font-size: 15px;
     font-weight: 700;
     line-height: 15px;
@@ -154,37 +154,37 @@
     font-size: 9px;
   }
 
-  .main-header .sign-in {
+  .main-content .sign-in {
     min-width: 40px;
   }
 
-  .main-header svg {
+  .main-content svg {
     height: 10px;
   }
 }
 
 @media only screen and (max-width: 278px) {
-  .mail-liste-action-2 figure {
+  .subscription-form-1 figure {
     overflow: none;
   }
 
-  .mail-liste-action-1 h3 {
+  .subscription-form h3 {
     font-size: 15px;
     font-weight: 700;
     line-height: 20px;
   }
 
-  .mail-liste-action-1 span {
+  .subscription-form span {
     font-size: 15px;
     line-height: 15px;
   }
 
   .sports article h3,
   .business article h3,
-  .culture .triple-row h3,
-  .tech-and-science .triple-row h3,
-  .locale-state .triple-row h3,
-  .international .triple-row h3 {
+  .culture .aside-row h3,
+  .tech-and-science .aside-row h3,
+  .real .aside-row h3,
+  .world-wide .aside-row h3 {
     font-size: 10px;
     font-weight: 700;
     line-height: 10px;
@@ -195,11 +195,11 @@
     margin-right: 5px;
   }
 
-  .main-header .sign-in {
+  .main-content .sign-in {
     min-width: 40px;
   }
 
-  .mail-liste-action-1 .mail-liste-action-2 {
+  .subscription-form .subscription-form-1 {
     width: 100%;
   }
 }

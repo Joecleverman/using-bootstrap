@@ -20,6 +20,10 @@ body {
   padding: 0;
 }
 
+.copyright-logo span {
+  color: red;
+}
+
 .main-content {
   color: white;
   fill: white;
@@ -47,6 +51,7 @@ article h3 a {
   color: black;
   font-size: 15px;
   font-weight: 600;
+  line-height: 17px;
 }
 
 .main-content a {
@@ -155,7 +160,7 @@ nav li:first-child {
   color: #333;
   font-size: 15px;
   line-height: 20px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .first-section img {
@@ -170,6 +175,7 @@ nav li:first-child {
   font-size: 30px;
   font-weight: 900;
   color: black;
+  line-height: 15px;
 }
 
 .featured img {
@@ -188,6 +194,7 @@ figcaption {
 .land-midle h3 {
   font-size: 22px;
   font-weight: 700;
+  line-height: 15px;
 }
 
 .culture-travel {
@@ -241,8 +248,9 @@ figcaption {
 
 .right-part span {
   color: #5a5959;
-  font-weight: 600;
-  font-size: 14px;
+  font-weight: 550;
+  font-size: 13px;
+  padding-top: 1px;
 }
 
 .opinion article {
@@ -251,12 +259,6 @@ figcaption {
 
 .opinion article:last-of-type {
   border-bottom: none;
-}
-
-.latest-news {
-  font-size: 17px;
-  font-weight: 700;
-  line-height: 21px;
 }
 
 .other-article h3 {
@@ -281,17 +283,8 @@ figcaption {
 
 .editor-pick h3 {
   font-size: 24px;
-  line-height: 24px;
+  line-height: 19px;
   font-weight: 700;
-}
-
-.latest-news article h3 {
-  font-size: 17px;
-  font-weight: 700;
-}
-
-.latest-news article:last-of-type {
-  border-bottom: none;
 }
 
 .newsletter {
@@ -408,10 +401,6 @@ figcaption {
 
 .background-image-6 {
   background-image: url(https://d.newsweek.com/en/full/1564972/cul-ps-stephaniebeatriz-banner.webp?w=466&h=311&q=90&f=b0f35797e644d2b2e79afd015cb9494f);
-}
-
-.all {
-  padding-left: 4px;
 }
 
 .other-article article .all {
