@@ -11,7 +11,7 @@ It was about making a clone of the [News week webiste ](https://www.newsweek.com
 
 ### [Assingment Link](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
 
-### [Live Link](https://rawcdn.githack.com/Joecleverman/using-bootstrap/7804cd59ac5ca1bd1e80945aa454bb55e4a40602/index.html)
+### [Live Link](https://https://rawcdn.githack.com/Joecleverman/using-bootstrap/34256dd52d909ee59dac01db6fa5bc5c2589b4c9/index.html)
 
 # Languages Used
 
